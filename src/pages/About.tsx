@@ -1,0 +1,1 @@
+﻿export function About() { return <main className="page-wrap"><p className="eyebrow">ABOUT THIS PROJECT</p><h1>Small structure.<br /><span>Room to grow.</span></h1><p className="intro">A practical starting point for organizing a React app as it grows.</p></main> }

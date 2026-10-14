@@ -1,0 +1,1 @@
+﻿export function EmptyState({ title = 'Nothing here yet' }: { title?: string }) { return <div className="empty-state"><span aria-hidden="true">✳</span><strong>{title}</strong><p>New content will show up here.</p></div> }

@@ -1,0 +1,1 @@
+﻿export function Home() { return <main className="page-wrap"><p className="eyebrow">A STARTER BLUEPRINT</p><h1>Good structure<br /><span>makes room to grow.</span></h1><p className="intro">A clean, scalable foundation for your next React project.</p><a className="text-link" href="#folders">Explore the structure <span aria-hidden="true">↘</span></a></main> }
